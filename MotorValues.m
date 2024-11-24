@@ -6,3 +6,4 @@ J =7 ;
 La =0.1;
 K =1.4;
 radian2degree = 60/(2*pi);
+%first branch >>branch1
