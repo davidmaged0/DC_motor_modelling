@@ -1,4 +1,4 @@
-Va = 100 ;
+Va = 150 ;
 Ra =0.4;
 B= 0.02;%Armature resistance 
 Tl = 30;% load torque 
